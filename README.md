@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, there! I’m Revanth. I'm currently working on Databases, Object Oriented Software Design and ETL/ Data Architectures.<br>👀 I’m interested in playing around Data ~ Organise - Collect - Select - Analyse - Predict - Repeat stuff LOL!<br>🌱 I’m currently on a personal mission building real-world applications and data solutions<br>💞️ I’m looking to collaborate with Full Stack Developers, System Architects and Data Science Associates<br>📫 Reach me: revanthmadupoju@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: alienating on Github, we're on the same boat!<br>
+👋 Hi! It's Revanth. I'm an Indian, CS major, worked as a Technical Enginener in FinTech domain, currently working through some Software Design, Databases and ETL/Data Engineering.👾 I’m currently onto Python Development and Systems programming with Go and Rust. <br>💻️I use Omarchy btw <br>💞️ I’m looking to collaborate with Full Stack Developers, System Architects and Data Science Associates<br>📫 Reach me: revanthmadupoju@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: alienating on Github, we're on the same boat!<br>
 
 
 ## 🌐 Socials:
