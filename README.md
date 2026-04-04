@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! It's Revanth. I'm an Indian, CS major, worked as a Technical Enginener in FinTech domain, currently working through some Software Design, Databases and ETL/Data Engineering.👾 I’m currently onto Python Development and Systems programming with Go and Rust. <br>💻️ I use Linux/Omarchy BTW(awaiting transition to Arch soon) <br>💞️ I’m looking to collaborate with Full Stack Developers, System Architects and Data Science Associates<br>📫 Reach me: revanthmadupoju@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: alienating on Github, we're on the same boat!<br>
+👋 Hi! It's Revanth, an Indian, CS major, ex-Technical Enginener @ValueLabs in FinTech domain, currently working through some Software Design, Databases and ETL/Data Engineering.👾 I’m currently onto Python Development and Systems programming with Go and Rust. <br>💻️ I use Linux/Omarchy BTW(awaiting transition to Arch soon) <br>💞️ I’m looking to collaborate with Full Stack Developers, System Architects and Data Science Associates<br>📫 Reach me: revanthmadupoju@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: alienating on Github, we're on the same boat!<br>
 
 
 ## 🌐 Socials:
